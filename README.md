@@ -1,4 +1,6 @@
 # Animals-10 dataset
+https://www.kaggle.com/datasets/alessiocorrado99/animals10/data
+
 For this project, I worked with the Animals-10 dataset, which contains images of 10 different animal classes. The goal was to prepare the dataset for deep learning, ensuring proper structure, preprocessing, and analysis before training a model.
 
 
