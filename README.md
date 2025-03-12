@@ -1,6 +1,13 @@
 # Animals-10 dataset
 For this project, I worked with the Animals-10 dataset, which contains images of 10 different animal classes. The goal was to prepare the dataset for deep learning, ensuring proper structure, preprocessing, and analysis before training a model.
 
+
+Technical requirements: using free colab GPU T4. 
+
+Main technologies: PyTorch (torch, torchvision) for dataset handling, transformations, and deep learning model implementation.
+Matplotlib & NumPy for data visualization and numerical operations.
+
+
 1. Check the directory structure (folders)
    
    The dataset originally had class names in Italian, but I renamed them to English using a dictionary (copied from translate.py that was in the folder with images) and os.rename().
