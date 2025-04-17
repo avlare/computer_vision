@@ -15,13 +15,13 @@ Split: training - 70%, val - 10%, test - 20%.
 1. animal10-preprocessing.ipynb - a notebook with data analysis.
 
 2. animals10-cnn.ipynb - a notebook with my own basic CNN model. 
-Accuracy: 0.7368; F1 Score (weighted): 0.7352
+**Accuracy: 0.7368; F1 Score (weighted): 0.7352**
 
-3. animal10-advanced-cnn.ipynb - a notebook with an advanced CNN model. Accuracy: 0.8877;
-F1 Score (weighted): 0.8873
+3. animal10-advanced-cnn.ipynb - a notebook with an advanced CNN model. **Accuracy: 0.8877;
+F1 Score (weighted): 0.8873**
 
-4. animal10-resnet.ipynb - a notebook with Transfer learning & Fine-tuning the ResNet model. Accuracy: 0.9799; 
-F1 Score (weighted): 0.9799
+4. animal10-resnet.ipynb - a notebook with Transfer learning & Fine-tuning the ResNet model. **Accuracy: 0.9799; 
+F1 Score (weighted): 0.9799**
 
 
 Please be sure to look for more details in the notebooks :D
